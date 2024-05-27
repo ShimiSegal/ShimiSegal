@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ShimiSegal
 - 👀 I’m interested in Reverse Engineering & Vulnerability Research 
-- 🌱 I’m currently learning Vulnerability Research
+- 🌱 I’m currently learning Vulnerability Research at Self-Learning 
